@@ -3,6 +3,7 @@
 3. git commit -m "-Initial Commit"
 4. git remote add origin git@github.com:ashley-desouza/docker-react.git
 5. git push origin main
+6. git branch --set-upstream-to=origin/main main
 
 
 Docker 
